@@ -1,6 +1,6 @@
-# physx3d-sim
+# Planet Sim
 
-`physx3d-sim` is a real-time 3D rigid-body physics sandbox written in modern C++ with OpenGL rendering.
+`planet-sim` is a real-time 3D rigid-body physics sandbox written in modern C++ with OpenGL rendering.
 
 ## Requirements
 
