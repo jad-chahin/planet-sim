@@ -51,7 +51,9 @@ build-*/
 cmake-build-*/
 
 # Local IDE files
-.idea/editor.xml
-.idea/modules.xml
-.idea/*.iml
-.idea/vcs.xml
+.idea/
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
